@@ -1,0 +1,6 @@
+@DigitalSubscriptions.Api_HostAddress = http://localhost:5262
+
+GET {{DigitalSubscriptions.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

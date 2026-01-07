@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/DigitalSubscriptions.Api/DigitalSubscriptions.Api.csproj" />
+  <Project Path="src/DigitalSubscriptions.Application/DigitalSubscriptions.Application.csproj" />
+  <Project Path="src/DigitalSubscriptions.Domain/DigitalSubscriptions.Domain.csproj" />
+  <Project Path="src/DigitalSubscriptions.Infrastructure/DigitalSubscriptions.Infrastructure.csproj" />
+</Solution>
