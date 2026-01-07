@@ -1,2 +1,3 @@
-# digital-subscriptions
-Painel simples para visualizar gastos com assinaturas digitais
+# Digital Subscriptions
+
+Painel simples para visualizar gastos com assinaturas digitais.
